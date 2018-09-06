@@ -1,5 +1,7 @@
 # stable-fast-stringify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BridgeAR/stable-fast-stringify.svg)](https://greenkeeper.io/)
+
 Very fast deterministic serialization alternative to [`JSON.stringify`][].
 
 ## Install
